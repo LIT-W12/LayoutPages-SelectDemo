@@ -47,7 +47,7 @@ Then, at the bottom of the layout, remove the footer:
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - WebApplication17 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - WebApplication17 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
 
